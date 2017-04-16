@@ -1,8 +1,0 @@
-div#envelope{
-width: 50%;
-margin: 10px 30% 10px 11%;
-}
-#resize
-{
-display:none;
-}
